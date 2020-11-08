@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;GrafosArchivosMatrices&apos;&#x0D;&#x0A;- Original project: &apos;GrafosArchivos&apos;&#x0D;&#x0A;- Destination element: &apos;GrafosArchivosMatrices&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Grafo1.txt&#x0D;&#x0A;     Grafo3.txt&#x0D;&#x0A;     Grafo2.txt&#x0D;&#x0A;     Grafo4.txt" description="Copy files" destination="=GrafosArchivosMatrices" element1="Grafo1.txt" element2="Grafo3.txt" element3="Grafo2.txt" element4="Grafo4.txt" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587161390501" units="0" version="1.0"/>
+</session>

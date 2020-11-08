@@ -1,0 +1,31 @@
+7
+11
+A
+B
+C
+D
+E
+F
+G
+A B
+7
+A D
+5
+B E
+7
+D F
+6
+E C
+5
+E G
+9
+B C
+8
+D B
+9
+D E
+15
+F E
+8
+F G
+11

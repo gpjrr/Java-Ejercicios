@@ -1,0 +1,60 @@
+Asia
+5
+Japon
+tokio
+China
+pekin
+Rusia
+moscu
+India
+nueva delhi
+Iran
+teheran
+America
+5
+Estados Unidos
+washington d.c.
+Canada
+ottawa
+Mexico
+ciudad de mexico
+Brasil
+brasilia
+Argentina
+buenos aires
+Africa
+5
+Egipto
+el cairo
+Angola
+luanda
+Libia
+tripoli
+Nigeria
+abuya
+Etiopia
+adis abeba
+Europa
+5
+Francia
+paris
+Polonia
+varsovia
+Alemania
+berlin
+Noruega
+oslo
+Grecia
+atenas
+Oceania
+5
+Fiyi
+suva
+Australia
+canberra
+Nueva Zelanda
+wellington
+Tonga
+nukual
+Islas Marshall
+majuro
