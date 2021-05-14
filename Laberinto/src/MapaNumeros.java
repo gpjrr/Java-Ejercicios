@@ -24,6 +24,7 @@ public class MapaNumeros{
  		
  		//System.out.println(n+" "+m);
  		
+ 		
  		for(int i=0;i<n;i++) {
  			tem=br.readLine();
  			

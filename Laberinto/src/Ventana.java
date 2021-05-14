@@ -38,7 +38,7 @@ public class Ventana extends JFrame{
 		ConfigurarTitulo();
 		ConfigurarBotonesNiveles();
 		ConfigurarBotonStart(ArrMapas);
-		ConfigurarBotonFoto();
+		//ConfigurarBotonFoto();
 	}
 	public void ConfigurarBotonFoto() {
 		botFoto=new BotonFoto();
